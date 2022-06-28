@@ -4,6 +4,9 @@ OTP Walk
 
 More of a sprint than a walk, through OTP values, looking for duplicates and recording some simple stats.
 
+Author: Steve Kerrison
+License: MIT
+
 Usage:
   otpwalk.py [--mode=<m>] [--limit=<l>]
   otpwalk.py (-h | --help)
